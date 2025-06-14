@@ -9,7 +9,7 @@
 <p align="left">My name is Ahmed</p>
 
 <p align="left">
-  🧠 Creating bugs since 2030. (Time Traveler)<br>
+  🧠 Creating bugs since 1900. (Time Traveler)<br>
 🔍 Currently exploring...<br>
 🏗️ Goal: Build the world's largest...<br>
 😄 Fun fact: I debug with a smile!
