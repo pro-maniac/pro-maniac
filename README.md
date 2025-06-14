@@ -38,15 +38,15 @@
 <h3 align="left">Public Profiles:</h3>
 
 <p align="left">
-  <a href="https://instagram.com/your_username" target="_blank">
+  <a href="https://instagram.com/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="30px" alt="Instagram" />
   </a>Naah! I am totally fine. Thanks.
   <br>
-  <a href="https://facebook.com/your_username" target="_blank">
+  <a href="https://facebook.com/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" width="30px" alt="Facebook" />
   </a>Old age
   <br>
-  <a href="https://github.com/your_username" target="_blank">
+  <a href="https://github.com/pro-maniac" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="30px" alt="GitHub" />
   </a>Github
 </p>
