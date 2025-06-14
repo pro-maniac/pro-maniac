@@ -32,7 +32,7 @@
 
 <!-- GIF placed in the red-marked area (center-right aligned) -->
 <div align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmliemc3MmpleTRhZXMzdmwwNTg0Z24weGkxNG5jbG4ycnEwN3p5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P5LFDazOirw0N4OHv1/giphy.gif" width="250px" alt="Funny gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNvbHM3dHNva291dmpsd3FyazkycjV5dnp3enFvM2NuMjYydmNoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blPpTGDhn6hEI/giphy.gif" />
 </div>
 
 <h3 align="left">Public Profiles:</h3>
