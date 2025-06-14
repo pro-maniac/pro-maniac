@@ -10,32 +10,30 @@
 
 <p align="left">
   🧠 Creating bugs since 1900. (Time Traveler)<br>
-🔍 Currently exploring...<br>
-🏗️ Goal: Build the world's largest...<br>
-😄 Fun fact: I debug with a smile!
+  🔍 Currently exploring...<br>
+  🏗️ Goal: Build the world's largest...<br>
+  😄 Fun fact: I debug with a smile!
 </p>
 
 <h2 align="left">I code with</h2>
 
-<table border="0">
-  <tr>
-    <td valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-    </td>
-    <td align="right">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmliemc3MmpleTRhZXMzdmwwNTg0Z24weGkxNG5jbG4ycnEwN3p5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P5LFDazOirw0N4OHv1/giphy.gif" width="250px" alt="Funny gif" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+</div>
+
+<!-- GIF placed in the red-marked area (center-right aligned) -->
+<div align="right">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmliemc3MmpleTRhZXMzdmwwNTg0Z24weGkxNG5jbG4ycnEwN3p5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P5LFDazOirw0N4OHv1/giphy.gif" width="250px" alt="Funny gif" />
+</div>
 
 <h3 align="left">Public Profiles:</h3>
 
@@ -59,5 +57,3 @@
   </a>
   <span style="margin-left: 8px;">GitHub</span>
 </div>
-
-
