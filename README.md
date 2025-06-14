@@ -42,6 +42,18 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
+<h3 align="left">Public Profiles:</h3>
+
+###
+
+<p align="left">Instagram? Naah! I am totally fine. Thanks.<br>Facebook? Old Age.<br>Github</p>
+
+###
+
 <img src="https://raw.githubusercontent.com/pro-maniac/pro-maniac/output/snake.svg" alt="Snake animation" />
 
 ###
