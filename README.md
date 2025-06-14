@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Arjun T M</h1>
+<h3 align="center">⚡ Cybersecurity Analyst | Ethical Hacker | Bug Bounty Hunter ⚡</h3>
 
-<!--
-**pro-maniac/pro-maniac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Hacker" width="400" src="https://your-image-url.com/hacker.png">
 
-Here are some ideas to get you started:
+- 🔒 Certified Ethical Hacker & Pentester  
+- 🏆 India Book of Records – Best Article Coder 2023  
+- 🌐 Website: [den.org](https://den.org)  
+- 📫 Instagram: [@imarjunarz](https://instagram.com/imarjunarz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
