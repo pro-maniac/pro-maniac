@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2030<br>📚 I'm currently learning...<br>🎯 Goals: Create a worlds largest...<br>🎲 Fun fact: Just try to smile</p>
+<p align="left">✨ Creating bugs since 2030. (Time Traveler)<br>📚 I'm currently learning...<br>🎯 Goals: Create a worlds largest...<br>🎲 Fun fact: Just try to smile</p>
 
 ###
 
