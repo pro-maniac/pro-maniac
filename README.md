@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun T M</h1>
 <h3 align="center">⚡ Cybersecurity Analyst | Ethical Hacker | Bug Bounty Hunter ⚡</h3>
 
-<img align="right" alt="Hacker" width="400" src="[https://your-image-url.com/hacker.png](https://github.com/images/mona-whisper.gif)">
+<img align="right" alt="Hacker" width="400" src="https://github.com/images/mona-whisper.gif">
 
 - 🔒 Certified Ethical Hacker & Pentester  
 - 🏆 India Book of Records – Best Article Coder 2023  
