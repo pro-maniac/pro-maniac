@@ -4,16 +4,15 @@
   </a>
 </p>
 
+<h2 align="left">About me</h2>
 
 <p align="left">My name is Ahmed</p>
 
-<h2 align="left">About me</h2>
-
 <p align="left">
-  ✨ Creating bugs since 2030. (Time Traveler)<br>
-  📚 I'm currently learning...<br>
-  🎯 Goals: Create the world's largest...<br>
-  🎲 Fun fact: Just try to smile
+  🧠 Creating bugs since 2030. (Time Traveler)<br>
+🔍 Currently exploring...<br>
+🏗️ Goal: Build the world's largest...<br>
+😄 Fun fact: I debug with a smile!
 </p>
 
 <h2 align="left">I code with</h2>
