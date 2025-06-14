@@ -1,28 +1,27 @@
 name: Generate Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # every day
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # every day at midnight
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
-        id: snake-gif
+    steps:
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            ./output/pacman-contribution-graph.svg
-            ./output/pacman-contribution-graph-dark.svg
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: output
+          build_dir: ./output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
