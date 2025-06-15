@@ -48,7 +48,7 @@
   <a href="https://facebook.com/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" width="30px" alt="Facebook" />
   </a>
-  <span style="margin-left: 8px;">Old age</span>
+  <span style="margin-left: 8px;">Not interested.</span>
 </div>
 
 <div style="display: flex; align-items: center;">
