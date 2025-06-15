@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="left">😎 About me: </h2>
+## 😎 About me:
 
 <p align="left">
   🧠 Creating bugs since 1900. (Time Traveler)<br>
@@ -13,7 +13,7 @@
   😄 Fun fact: I debug with a smile!
 </p>
 
-<h2 align="left">I code with</h2>
+## I code with:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
@@ -28,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
 </div>
 
-<!-- GIF placed in the red-marked area (center-right aligned) -->
 <div align="right">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNvbHM3dHNva291dmpsd3FyazkycjV5dnp3enFvM2NuMjYydmNoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blPpTGDhn6hEI/giphy.gif" />
 </div>
