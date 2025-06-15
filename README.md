@@ -6,8 +6,6 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">My name is Ahmed</p>
-
 <p align="left">
   🧠 Creating bugs since 1900. (Time Traveler)<br>
   🔍 Currently exploring...<br>
