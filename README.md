@@ -8,7 +8,7 @@
 
 <p align="left">
   🧠 Creating bugs since 1900. (Time Traveler)<br>
-  🔍 Currently exploring...<br>
+  🔍 Currently: Exploring...<br>
   🏗️ Goal: Build the world's largest...<br>
   😄 Fun fact: I debug with a smile!
 </p>
