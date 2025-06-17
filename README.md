@@ -60,7 +60,7 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/pro-maniac" target="_blank">
+  <a href="https://github.com/prince-ohio" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="30px" alt="GitHub" />
   </a>
   <span style="margin-left: 8px;">GitHub</span>
