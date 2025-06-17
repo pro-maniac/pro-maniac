@@ -74,3 +74,7 @@
  
 </div>
 
+![GitHub Snake](https://github.com/prince-ohio/prince-ohio/blob/output/github-snake.svg)
+![GitHub Snake dark](https://github.com/prince-ohio/prince-ohio/blob/output/github-snake-dark.svg?raw=true)
+
+
