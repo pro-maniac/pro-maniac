@@ -1,12 +1,9 @@
 name: Generate Snake
 
 on:
-  # Manual trigger
   workflow_dispatch:
-
-  # Scheduled trigger: every day at midnight UTC
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
 
 jobs:
   generate:
@@ -14,11 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout your repo
       - name: Checkout the repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the contribution snake SVG
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -27,7 +22,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      # Step 3: Push generated files to `output` branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -36,6 +30,3 @@ jobs:
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-![GitHub Snake](https://raw.githubusercontent.com/prince-ohio/prince-ohio/output/github-contribution-grid-snake.svg)
