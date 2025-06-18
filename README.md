@@ -1,9 +1,7 @@
 ![Visits Badge](https://komarev.com/ghpvc/?username=prince-ohio&style=flat-square)
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0366D6&center=true&width=435&lines=Hi!+Welcome+to+my+GitHub+profile.;What+are+you+exactly+searching+for%3F" alt="Typing SVG" />
-  </a>
 </p>
 
 # 😎 About me:
