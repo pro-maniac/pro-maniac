@@ -19,8 +19,8 @@
 
 
 <p>
-    <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="My Skills" />
-  <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,js,mongodb,express,react,nodejs" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=vscode,c,py,bash&theme=light" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs" alt="My Skills" />
 <br>
 <br>
   <img src="https://skillicons.dev/icons?i=pr,ps,figma,asd,postman,docker,asd,windows,ubuntu,kali" alt="My Skills" />
