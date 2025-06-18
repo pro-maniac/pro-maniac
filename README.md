@@ -20,10 +20,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,c,python,bash,html,css,js,mongodb,express,react,nodejs,postman" alt="My Skills" />
-</p>
 <br>
 <br>
-<p>
   <img src="https://skillicons.dev/icons?i=pr,ps,figma,asd,windows,ubuntu,kali" alt="My Skills" />
 </p>
 
