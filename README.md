@@ -20,10 +20,10 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNtcDMxYjk5b3V0Y2tuMDR1NzlrY2pmaTRidWdjenB3Z2NpeHJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgSjnwSoqiPjRRIJ1F/giphy.gif" align="right" width="100" />
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,asd,c,python,bash,html,css,js,mongodb,express,react,nodejs,postman)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,asd,c,python,bash,html,css,js,mongodb,express,react,nodejs,postman)]()<br>
 <br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=pr,ps,figma,asd,windows,ubuntu,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pr,ps,figma,asd,windows,ubuntu,kali)]()
 
 ### Connect: 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince-ohio)<br>
