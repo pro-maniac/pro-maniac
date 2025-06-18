@@ -48,7 +48,7 @@
 <h3 align="left">Public Profiles:</h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) Naah! I am totally fine. Thank you<br>
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/manishgoletamang) Not Interested
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/) Not Interested
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/prince-ohio" target="_blank">
