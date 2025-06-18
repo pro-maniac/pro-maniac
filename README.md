@@ -15,14 +15,15 @@
 <br>
 <br>
 ## Tech Stacks and Tech Tools:
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNtcDMxYjk5b3V0Y2tuMDR1NzlrY2pmaTRidWdjenB3Z2NpeHJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgSjnwSoqiPjRRIJ1F/giphy.gif" align="right" width="120" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNtcDMxYjk5b3V0Y2tuMDR1NzlrY2pmaTRidWdjenB3Z2NpeHJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgSjnwSoqiPjRRIJ1F/giphy.gif" align="right" width="200" />
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,c,python,bash,html,css,js,mongodb,express,react,nodejs,postman" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,python,bash,html,css,js,mongodb,express,react,nodejs" alt="My Skills" />
 <br>
 <br>
-  <img src="https://skillicons.dev/icons?i=pr,ps,figma,asd,windows,ubuntu,kali" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=pr,ps,figma,asd,postman,docker,asd,windows,ubuntu,kali" alt="My Skills" />
 </p>
 
 
