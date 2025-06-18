@@ -43,3 +43,7 @@
 </picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_ :contentReference[oaicite:10]{index=10}
+
+
+<img src="https://pacman.abozanona.me?username=prince-ohio" />
+
