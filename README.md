@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=prince-ohio&style=flat-square)
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+Welcome+to+my+GitHub+profile;What+are+you+exactly+searching+for%3F" alt="Typing SVG" />
@@ -45,19 +47,8 @@
 
 <h3 align="left">Public Profiles:</h3>
 
-<div style="display: flex; align-items: center; margin-bottom: 6px;">
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="30px" alt="Instagram" />
-  </a>
-  <span style="margin-left: 8px;">Naah! I am totally fine. Thanks.</span>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 6px;">
-  <a href="https://facebook.com/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=uLWV5A9vXIPu&format=png&color=000000" width="30px" alt="Facebook" />
-  </a>
-  <span style="margin-left: 8px;">Not interested.</span>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) Naah! I am totally fine. Thank you<br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/manishgoletamang) Not Interested
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/prince-ohio" target="_blank">
@@ -73,8 +64,4 @@
   </a>
  
 </div>
-
-![GitHub Snake](https://github.com/prince-ohio/prince-ohio/blob/output/github-snake.svg)
-![GitHub Snake dark](https://github.com/prince-ohio/prince-ohio/blob/output/github-snake-dark.svg?raw=true)
-
 
