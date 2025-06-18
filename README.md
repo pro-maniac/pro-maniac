@@ -15,7 +15,7 @@
 <br>
 <br>
 ## Tech Stacks and Tech Tools:
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNtcDMxYjk5b3V0Y2tuMDR1NzlrY2pmaTRidWdjenB3Z2NpeHJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgSjnwSoqiPjRRIJ1F/giphy.gif" align="right" width="100" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNtcDMxYjk5b3V0Y2tuMDR1NzlrY2pmaTRidWdjenB3Z2NpeHJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgSjnwSoqiPjRRIJ1F/giphy.gif" align="right" width="140" />
 
 
 <p>
