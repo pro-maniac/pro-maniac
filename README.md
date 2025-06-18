@@ -38,5 +38,5 @@
 
 
 <img src="https://pacman.abozanona.me?username=prince-ohio" />
-![Snake animation](https://github.com/prince-ohio/prince-ohio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/prince-ohio/prince-ohio/output/github-contribution-grid-snake.svg)
 
