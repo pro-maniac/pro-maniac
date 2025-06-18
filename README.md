@@ -37,9 +37,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/) Not Interested<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man Contribution Graph" src="https://raw.githubusercontent.com/yourusername/yourusername/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prince-ohio/prince-ohio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prince-ohio/prince-ohio/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man Contribution Graph" src="https://raw.githubusercontent.com/prince-ohio/prince-ohio/output/pacman-contribution-graph.svg">
 </picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_ :contentReference[oaicite:10]{index=10}
