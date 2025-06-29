@@ -11,7 +11,7 @@
   &nbsp;&nbsp; 🧠 Creating bugs since 1900. (Time Traveler)<br>
   &nbsp;&nbsp; 🔍 Currently: Exploring...<br>
   &nbsp;&nbsp; 🏗️ Goal: Build the world's largest...<br>
-  &nbsp;&nbsp; 😄 Fun fact: I debug with a smile!
+  &nbsp;&nbsp; 😄 Fact: I debug with a smile!
 <br>
 <br>
 ## Tech Stacks and Tech Tools:
