@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0366D6&center=true&width=435&lines=Hi!+Welcome+to+my+GitHub+profile.;What+are+you+exactly+searching+for%3F" alt="Typing SVG" />
 </p>
 
-# 😎 About me:
+# 😎 About me: About me
 
   <img align=right src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWs0aHJ1a2hlNmt5cTc1bXlsY2g4eTB4eWQxZDJqaDVnYmdmbnRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAYZh6hELIivibOJWH/giphy.gif" alt="Celebration GIF" width="200"/>
 
