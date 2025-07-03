@@ -27,12 +27,12 @@
 </p>
 
 
-### 🤝 Connect: 
+### 🤝 𝓒𝓸𝓷𝓷𝓮𝓬𝓽:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince-ohio)<br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1348188238107377685)<br>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prince_ohio)
 
-### 🌍 Public Profiles:
+### 🌍 𝓟𝓾𝓫𝓵𝓲𝓬 𝓟𝓻𝓸𝓯𝓲𝓵𝓮𝓼:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) Naah! I am totally fine. Thank you<br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/) Not Interested<br>
