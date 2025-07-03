@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0366D6&center=true&width=435&lines=Hi!+Welcome+to+my+GitHub+profile.;What+are+you+exactly+searching+for%3F" alt="Typing SVG" />
 </p>
 
-# 😎 About me: About me
+# 😎 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮:
 
   <img align=right src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWs0aHJ1a2hlNmt5cTc1bXlsY2g4eTB4eWQxZDJqaDVnYmdmbnRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAYZh6hELIivibOJWH/giphy.gif" alt="Celebration GIF" width="200"/>
 
@@ -14,7 +14,7 @@
   &nbsp;&nbsp; 😄 Fact: I debug with a smile!
 <br>
 <br>
-## Tech Stacks and Tech Tools:
+## 𝓘𝓷𝓿𝓮𝓷𝓽𝓸𝓻𝔂:
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNtcDMxYjk5b3V0Y2tuMDR1NzlrY2pmaTRidWdjenB3Z2NpeHJkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VgSjnwSoqiPjRRIJ1F/giphy.gif" align="right" width="200" />
 
 
