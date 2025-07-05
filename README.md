@@ -19,7 +19,7 @@
 
 
 <p>
-    <img src="https://skillicons.dev/icons?i=vscode,c,py,bash&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=vscode,c,java,py,bash&theme=light" alt="My Skills" />
   <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs" alt="My Skills" />
 <br>
 <br>
